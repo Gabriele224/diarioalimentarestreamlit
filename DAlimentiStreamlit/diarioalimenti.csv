@@ -1,0 +1,27 @@
+﻿id_alimento,alimento,peso,cho,kcal,fibre,proteine
+1,pane lariano tradizionale,100,63.29,283,2.4,9.59
+2,mezze maniche integrali todis,100,65,362,7,13.5
+3,penne rigate integrali todis,100,65,362,7,13.5
+4,spaghetti integrali todis,100,65,362,7,13.5
+5,farfalle integrali todis,100,65,362,7,13.5
+6,fusilli integrali bio todis,100,64.6,350,8,12.5
+7,crakers salati mulino bianco,100,68,439,4.8,10
+8,crakers salati conad,100,72,432,2.8,9.8
+9,plumcake integrali todis,100,43,376,7.2,7
+10,plumcake integrali conad,100,43,374,6,7
+11,fette biscottate integrali todis,100,67,393,7,12
+12,spaghetti garofalo,100,70,351,3,14
+13,penne gragnano todis,100,70,353,3,14
+14,abc con parmigiano reggiano,100,24,193,0.0,0.0
+15,piatto alla amatriciana,270,77.5,650,5.4,20.3
+16,piatto alla carbonara,230,65.3,563,2.8,24.8
+17,trofie al pesto,300,75,675,3,18
+18,pane di caserta,100,45.40,228,0,8.3
+19,pane grande impero classico,100,58.2,277,3.5,9
+20,pane grande impero nostalgia,100,53.7,263,5.5,8.8
+21,pane grande impero sciapo,100,58.6,278,3.1,8.22
+22,pane grande impero grano duro,100,48.1,240.44,3.8,9.2
+23,pane grande impero grazzo,100,53.1,251,5.1,7.33
+24,pane grande impero 8 semi,100,54,274,5.4,8.1
+25,panino con hamburger,100,52,278,2.1,9.87
+26,avocado,100,1.8,238,3.3,4.4
