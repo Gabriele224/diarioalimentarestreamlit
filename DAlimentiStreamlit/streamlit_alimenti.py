@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 st.title("Diario Alimentare")
 
-df_csv= pd.read_csv("diarioalimenti.csv")
+df_csv= pd.read_csv(r"./DAlimentiStreamlit/diarioalimenti.csv")
 select_alimento=st.selectbox("Scegli l'alimento\n", df_csv["alimento"].unique())
 
 qt= st.number_input("Inserisci la quantità di CHO\n", min_value=0.0, step=0.0)
