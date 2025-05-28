@@ -1,0 +1,74 @@
+﻿id_alimento,alimento,peso,cho,kcal,fibre,proteine
+1,pane lariano tradizionale,100,63.29,283,2.4,9.59
+2,mezze maniche integrali todis,100,65,362,7,13.5
+3,penne rigate integrali todis,100,65,362,7,13.5
+4,spaghetti integrali todis,100,65,362,7,13.5
+5,farfalle integrali todis,100,65,362,7,13.5
+6,fusilli integrali bio todis,100,64.6,350,8,12.5
+7,crakers salati mulino bianco,100,68,439,4.8,10
+8,crakers salati conad,100,72,432,2.8,9.8
+9,plumcake integrali todis,100,43,376,7.2,7
+10,plumcake integrali conad,100,43,374,6,7
+11,fette biscottate integrali todis,100,67,393,7,12
+12,spaghetti garofalo,100,70,351,3,14
+13,penne gragnano todis,100,70,353,3,14
+14,abc con parmigiano reggiano,100,24,193,0.0,8
+15,piatto alla amatriciana,270,77.5,650,5.4,20.3
+16,piatto alla carbonara,230,65.3,563,2.8,24.8
+17,trofie al pesto,300,75,675,3,18
+18,pane di caserta,100,45.40,228,0,8.3
+19,pane grande impero classico,100,58.2,277,3.5,9
+20,pane grande impero nostalgia,100,53.7,263,5.5,8.8
+21,pane grande impero sciapo,100,58.6,278,3.1,8.22
+22,pane grande impero grano duro,100,48.1,240.44,3.8,9.2
+23,pane grande impero grazzo,100,53.1,251,5.1,7.33
+24,pane grande impero 8 semi,100,54,274,5.4,8.1
+25,panino con hamburger,100,52,278,2.1,9.87
+26,avocado,100,1.8,238,3.3,4.4
+27,bastoncini di pollo,100,24,245,2.7,9.6
+28,pane integrale in cassetta,100,43,270,7,9
+29,risotto agli asparagi,100,77,352,4.5,7.2
+30,rigatoni gragnano,100,70,353,3,14
+31,hamburger con tacchino,100,1.3,168,0.0,16
+32,gnocchi al ragù,100,40.79,296.55,0.0,14.39
+33,pasta e ceci in scatola,100,86.11,492.45,0.0,19.89
+34,pizzoccheri,100,67.73,531.65,0.0,19.54
+35,fusilli all'ortolana,100,95.42,557.30,0.0,19.55
+36,gnocchi burro e salvia,100,38.01,279.50,0.0,7.22
+37,pasta e fagioli,100,95.95,750.46,0.0,33.70
+38,pasta grano duro,100,72.70,341.00,0.0,13.50
+39,cannelloni al ragù,100,75.87,463.64,0.0,22.25
+40,lasagna al ragù,100,73.34,557.05,0.0,25.97
+41,pasta e ricotta,100,75.85,500.25,0.0,24.66
+42,pasta di lenticchie,100,48.00,334.00,0.0,25.00
+43,pasta fagioli secchi,100,87.91,503.00,0.0,20.96
+44,pasta con salsiccia,100,78.79,828.80,0.0,33.63
+45,pasta lenticchie secche,100,64.90,432.40,0.0,19.30
+46,pasta con patate,100,97.44,1098.60,0.0,32.13
+47,spaghetti alle vongole,100,76.21,480.41,0.0,22.32
+48,pasta al salmone,100,75.66,575.10,0.0,35.17
+49,pasta al tonno,100,73.84,543.25,0.0,28.76
+50,pasta alla carbonara,100,72.70,530.25,0.0,20.12
+51,pasta semola integrale,100,64.80,330.0,0.0,13.20
+52,pasta alla norma,100,80.22,506.45,0.0,23.22
+53,spaghetti al pomodoro,100,75.70,452.90,0.0,14.70
+53,pasta e fave,100,79.45,507.40,0.0,21.30
+54,tagliatelle funghi porcini,100,73.42,530.03,0.0,16.83
+55,tortellini di magro,100,32.00,270.00,0.0,9.0
+56,pasta con gamberi,100,83.35,676.15,0.0,46.36
+57,pasta di ceci,100,44.00,336.00,0.0,18.00
+58,pasta di piselli,100,55.00,335.00,0.0,20.00
+59,pasta e piselli,100,86.02,524.50,0.0,19.86
+60,tortellini di carne,100,43.00,295.00,0.0,13.00
+61,pasta zucchine e pancetta,100,75.55,916.45,0.0,46.61
+62,tagliatelle al ragù,100,77.09,587.90,0.0,30.01
+63,bucatini all'amatriciana,100,73.69,563.85,0.0,18.06
+64,gnocchi alla romana,100,15.04,189.72,0.0,9.51
+65,pasta e ceci secchi,100,92.96,552.13,0.0,22.46
+66,pasta con i broccoli,100,76.86,475.10,0.0,17.53
+67,pasta e lenticchie in scatola,100,62.45,418.90,0.0,15.45
+68,gnocchi di patate cotti,100,34.00,147.00,0.0,3.50
+69,gnocchi di patate crudi,100,37.90,164.00,0.0,3.90
+70,pasta aglio olio e peperoncino,100,26.50,190.00,0.0,4.20
+71,pasta al pomodoro,100,19.50,113.00,0.0,3.30
+72,pasta al pesto,100,21.40,175.00,0.0,6.70
