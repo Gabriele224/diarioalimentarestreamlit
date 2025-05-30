@@ -1,4 +1,4 @@
-﻿id_alimento,alimento,peso,cho,kcal,fibre,proteine
+id_alimento,alimento,peso,cho,kcal,fibre,proteine
 1,pane lariano tradizionale,100,63.29,283,2.4,9.59
 2,mezze maniche integrali todis,100,65,362,7,13.5
 3,penne rigate integrali todis,100,65,362,7,13.5
@@ -72,3 +72,16 @@
 70,pasta aglio olio e peperoncino,100,26.50,190.00,0.0,4.20
 71,pasta al pomodoro,100,19.50,113.00,0.0,3.30
 72,pasta al pesto,100,21.40,175.00,0.0,6.70
+73,hamburger alla griglia,100,0.0,117.00,0.0,21.50
+74,petto di pollo ai ferri,100,0.0,100.00,0.0,23.30
+75,salsiccia di maiale,100,0.60,304.00,0.0,15.40
+76,arrosto di vitello,100,0.0,107.00,0.0,20.70
+77,petto di pollo arrosto,100,0.0,100.00,0.0,23.30
+78,tartare di manzo,100,0.0,134.00,0.0,21.80
+79,filetto di manzo ai ferri,100,0.0,165.10,0.0,26.65
+80,fiorentina ai ferri,100,0.0,134.00,0.0,21.80
+81,sofficini cotto e mozzarella,100,25.60,224.00,0.0,9.60
+82,polpette di carne,100,5.10,206.00,0.0,15.00
+83,roast beef,100,0.0,134.00,0.0,21.80
+84,cotechino confezionato precotto,100,0.0,449.00,0.0,17.20
+85,scaloppine di tacchino al limone,100,11.50,170.00,0.0,20.50
